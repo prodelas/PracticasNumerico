@@ -4,4 +4,4 @@ En este repositorio se encuentran los notebooks de Jupyter,
 junto con los scripts de Python asociados a ciertas prácticas 
 de temas sobre Cálculo Numérico en algunas de las asignaturas 
 que he impartido en estos últimos años en el Dpto. de Matemática Aplicada
-de la Universidad de Granada.
+de la Universidad de Granada. Bajo licencia Creative Commons CC BY-NC-SA 4.0.
